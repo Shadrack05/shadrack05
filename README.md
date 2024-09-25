@@ -5,9 +5,9 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🌱 I’m currently learning **Laravel, Vue**
+- 🌱 I’m currently learning **Azure, Google Cloud**
 
-- 💬 Ask me about **HTML,CSS,C++,Cloud and IoT,Embedded Sysytems**
+- 💬 Ask me about **Laravel, Vue.js, Rest API, HTML, CSS, C++, C#, Cloud and IoT,Embedded Sysytems**
 
 - 📫 How to reach me **shadrackomuya5@gmail.com**
 
